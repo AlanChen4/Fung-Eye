@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>ce8eff5c-7.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>275</width>
+<height>183</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Amanita muscaria</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>46</xmin>
+<ymin>112</ymin>
+<xmax>103</xmax>
+<ymax>173</ymax>
+</bndbox>
+</object>
+<object>
+<name>Amanita muscaria</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>64</xmin>
+<ymin>13</ymin>
+<xmax>233</xmax>
+<ymax>172</ymax>
+</bndbox>
+</object>
+<object>
+<name>Amanita muscaria</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>23</xmin>
+<ymin>110</ymin>
+<xmax>59</xmax>
+<ymax>174</ymax>
+</bndbox>
+</object>
+<object>
+<name>Amanita muscaria</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>31</xmin>
+<ymin>76</ymin>
+<xmax>131</xmax>
+<ymax>178</ymax>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>62e0611a-63.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>275</width>
+<height>183</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Amanita muscaria</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>32</xmin>
+<ymin>18</ymin>
+<xmax>178</xmax>
+<ymax>161</ymax>
+</bndbox>
+</object>
+<object>
+<name>Amanita muscaria</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>116</xmin>
+<ymin>75</ymin>
+<xmax>191</xmax>
+<ymax>169</ymax>
+</bndbox>
+</object>
+</annotation>
